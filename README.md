@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00A39F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sri+Vighna+Teja+👋;AI%2FML+Explorer+%7C+System+Coder+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4400&color=00A39F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sri+Vighna+Teja+👋;AI%2FML+Explorer+%7C+System+Coder+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <h1 align="center">🎓 Final-Year B.Tech CSE (AI & ML) | Building Real-World Systems</h1>
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 
-- 🎓 B.Tech CSE (AI & ML) – Final Year (2025 Batch)
+- 🎓 B.Tech CSE (AI & ML) – Final Year (2026 Batch)
 - 🧠 Focused on **learning with depth**, not just breadth
 - 🧑‍💻 Built practical tools in **C**, **Python**, and **ML pipelines**
 - ⚙️ Interested in **offline AI systems**, **language processing**, **system-level communication**
@@ -27,7 +27,7 @@
 | **ML Frameworks**     | PyTorch, scikit-learn |
 | **Data Analysis**     | Pandas, NumPy, Seaborn, Matplotlib, Plotly |
 | **Deployment/Env**    | VS Code, Google Colab |
-| **OS Experience**     | macOS (current), Ubuntu (college), Windows (prior) |
+| **OS Experience**     | macOS, Ubuntu (college), Windows |
 | **Learning**          | HTML, CSS, JS |
 
 ---
@@ -75,9 +75,9 @@
 
 ## 📌 Professional Mindset
 - 🧱 Building strong fundamentals, not just flashy projects
-- 💡 Committed to **"Repati kosam"** mindset – every experience counts for tomorrow
+- 💡 Committed to a **“Repati kosam”** mindset — what I do today defines what I’ll own tomorrow
 
 ---
 
-<p align="center">💬 Want to collaborate or talk AI, NLP, or code? <a href="https://www.linkedin.com/in/sri-vighna-teja/">Let’s connect on LinkedIn →</a></p>
+<p align="center">💬 Want to collaborate or talk tech? <a href="https://www.linkedin.com/in/sri-vighna-teja/">Let’s connect on LinkedIn →</a></p>
 <p align="center"><b>“Let code be your language and learning your currency.”</b></p> 
