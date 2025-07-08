@@ -67,7 +67,9 @@
 ## 🔗 Most Active Platform
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/sri-vighna-teja/">
+        <img src="https://img.shields.io/badge/LinkedIn-Sri%20Vighna%20Teja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 </p>
 <p align="center"><strong>I actively build, connect, and grow via LinkedIn. Recruiters and mentors welcome to connect!</strong></p>
 
